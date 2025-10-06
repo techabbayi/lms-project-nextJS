@@ -1,5 +1,7 @@
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
+"use client";
+
+import Navbar from "../components/layout/Navbar";
+import Footer from "../components/layout/Footer";
 
 export default function Login() {
     return (
